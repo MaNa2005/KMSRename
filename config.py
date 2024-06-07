@@ -98,11 +98,12 @@ sᴇɴᴅ ɪᴍᴀɢᴇ ᴛᴏ sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ
 
 ᴇɢ:- 
 
-<b>{filename}</b>
+File Name: <b>{filename}</b>
 
-File Size: <b>{file_size}</b>
-
-Join us :- @TG_UPDATES1 </b>"""
+File Size: <b>{filesize}</b>
+Duration: <b>{duration}</b>
+Quality: <b>{quality}</b>
+Languages: <b>{languages}</b>
 
     THUMBNAIL_TXT = """<b>
  /del_thumb Uꜱᴇ Tʜɪꜱ Cᴏᴍᴍᴀɴᴅ Tᴏ Dᴇʟᴇᴛᴇ Yᴏᴜʀ Oʟᴅ Tʜᴜᴍʙɴɪʟᴇ.
