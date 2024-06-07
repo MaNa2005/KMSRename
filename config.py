@@ -46,9 +46,9 @@ Aɴᴅ Rᴇɴᴀᴍᴇ Wɪᴛʜᴏᴜᴛ Dᴏᴡɴʟᴏᴀᴅ 💯 Fᴜʟʟʏ W�
 
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
-├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/TG_LINKS_CHANNEL2>CLICK HERE</a> 
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/TG_UPDATES1>CLICK HERE</a>
-├📕 Lɪʙʀᴀʀy : <a href=https://github.com/Kushalhk>CLICK HERE</a>
+├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/kmsmovies1>CLICK HERE</a> 
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/ChandrU_AK>CLICK HERE</a>
+├📕 Lɪʙʀᴀʀy : <a href=https://github.com/MaNa2005>CLICK HERE</a>
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
 ├📊 Bᴜɪʟᴅ Vᴇʀꜱɪᴏɴ: Rᴇɴᴀᴍᴇʀ V3.0.0</a></b>     
@@ -64,7 +64,7 @@ sᴘᴇᴇᴅ ᴅᴇᴘᴇɴᴅs ᴏɴ ʏᴏᴜʀ ᴍᴇᴅɪᴀ ᴅᴄ.
 sᴇɴᴅ ɪᴍᴀɢᴇ ᴛᴏ sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ 
 ᴛᴏ sᴇᴇ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴘʀᴇss
 
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/TG_SUPPORT_GROUP>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Team_Admins_2023>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
 
@@ -73,7 +73,7 @@ sᴇɴᴅ ɪᴍᴀɢᴇ ᴛᴏ sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ
 
 ☞ Fᴏʀ Exᴀᴍᴘʟᴇ:-
 
-◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @TG_LINKS_CHANNEL1" -metadata author="@TG_UPDATES1" -metadata:s:s title="Subtitled By :- @TG_LINKS_CHANNEL1" -metadata:s:a title="By :- @TG_LINKS_CHANNEL1" -metadata:s:v title="By:- @TG_UPDATES1" </code>
+◦ <code> -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @kmsmovies1" -metadata author="@ChandrU_AK" -metadata:s:s title="Subtitled By :- @kmsmovies1" -metadata:s:a title="By :- @kmsmovies1" -metadata:s:v title="By:- @TG_UPDATES1" </code>
 
 📥 Fᴏʀ Hᴇʟᴘ Cᴏɴᴛ.
 """
@@ -125,6 +125,6 @@ Languages: <b>{languages}</b>
 
 𝙴𝚇𝙰𝙼𝙿𝙻𝙴 :- /𝚜𝚘𝚗𝚐 𝚏𝚊𝚍𝚎𝚍
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 @TG_UPDATED1
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 @kmsmovies1
 
 𝚃𝙷𝙰𝙽𝙺 𝚈𝙾𝚄 🫶</b>"""
